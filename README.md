@@ -7,6 +7,7 @@
 - 😄 Proud 🇮🇳
 
 
+---
 
 #### 🔗 Know more about me here: [satyamurti.github.io](https://satyamurti.github.io/)
 
