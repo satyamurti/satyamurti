@@ -1,7 +1,11 @@
-### Hi there 👋 I am Satyamurti
+### Hi there 👋! I am Satyamurti
 
  
-- 👨🏻‍🎓 Currently studying at NIT Trichy
+- 👨🏻‍🎓 Computer Science undergraduate student at NIT Trichy
+- 📱 Android Developer ❤️
+- ⚙️ Open Source Enthusiast 
+- 😄 Proud 🇮🇳
+
 
 
 #### 🔗 Know more about me here: [satyamurti.github.io](https://satyamurti.github.io/)
