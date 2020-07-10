@@ -1,5 +1,10 @@
 ### Hi there 👋 I am Satyamurti
-- 
+
+ 
+- 👨🏻‍🎓 Currently studying at NIT Trichy
+
+
+#### 🔗 Know more about me here: [satyamurti.github.io](https://satyamurti.github.io/)
 
 <!--
 **satyamurti/satyamurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
