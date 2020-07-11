@@ -2,7 +2,7 @@
 
  
 - 👨🏻‍🎓 Computer Science undergraduate student at NIT Trichy
-- 📱 Android Developer ❤️
+- 📱 Android Developer 
 - ⚙️ Open Source Enthusiast 
 - 😄 Proud 🇮🇳
 
