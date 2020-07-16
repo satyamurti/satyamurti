@@ -5,7 +5,7 @@
 - 📱 Android Developer 
 - ⚙️ Open Source Enthusiast 
 - 😄 Proud 🇮🇳
-- 🔭 I’m currently working on LetChat- an open source chat app
+- 🔭 I’m currently working on LetsChat- an open source chat app
 
 
 ---
