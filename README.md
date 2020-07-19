@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on  [LetsChat](https://github.com/satyamurti/LetsChat)- an open source chat app
 
 
+![Govind's github stats](https://github-readme-stats.vercel.app/api?username=satyamurti&show_icons=true&hide_border=true)
+
 ---
 
 #### 🔗 Know more about me here: [satyamurti.github.io](https://satyamurti.github.io/)
