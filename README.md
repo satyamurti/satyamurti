@@ -1,4 +1,4 @@
-### Hi there <img src="Hi.gif" width="29px">! I am Satyamurti
+### Hi there <img src="https://github.com/satyamurti/satyamurti/blob/master/Hi.gif" width="29px">! I am Satyamurti
 
  
 - 👨🏻‍🎓 Computer Science undergraduate student at NIT Trichy
