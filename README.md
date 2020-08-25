@@ -8,7 +8,10 @@
 - 🔭 I’m currently working on  [LetsChat](https://github.com/satyamurti/LetsChat)- an open source chat app
 
 
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=satyamurti&show_icons=true&hide_border=true)
+![Satyamurti"s Status](https://github-readme-stats.vercel.app/api?username=satyamurti&show_icons=true&hide_border=true)
+![Satyamurti"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamurti&theme=vue&hide=css,html)
+
+
 
 ---
 
