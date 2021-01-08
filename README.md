@@ -4,7 +4,6 @@
 - 👨🏻‍🎓 Computer Science undergraduate student at NIT Trichy
 - 📱 Android Developer 
 - ⚙️ Open Source Enthusiast 
-- 😁 Proud 🇮🇳
 - 🔭 I’m currently working on  [LetsChat](https://github.com/satyamurti/LetsChat)- an open source chat app
 
 
